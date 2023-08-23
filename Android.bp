@@ -845,6 +845,15 @@ prebuilt_etc_xml {
 }
 
 prebuilt_etc_xml {
+	name: "vendor.semc.hardware.extlight-somc",
+	owner: "sony",
+	src: "proprietary/vendor/etc/vintf/manifest/vendor.semc.hardware.extlight-somc.xml",
+	filename_from_src: true,
+	sub_dir: "vintf/manifest",
+	soc_specific: true,
+}
+
+prebuilt_etc_xml {
 	name: "vendor.somc.hardware.camera.provider.manifest",
 	owner: "sony",
 	src: "proprietary/vendor/etc/vintf/manifest/vendor.somc.hardware.camera.provider.manifest.xml",
