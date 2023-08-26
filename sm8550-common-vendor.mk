@@ -1570,6 +1570,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/sm8550-common/proprietary/vendor/lib64/libsnapdragoncolor-qdcm.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsnapdragoncolor-qdcm.so \
     vendor/sony/sm8550-common/proprietary/vendor/lib64/libsns_direct_channel_stub.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsns_direct_channel_stub.so \
     vendor/sony/sm8550-common/proprietary/vendor/lib64/libsnsapi.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsnsapi.so \
+    vendor/sony/sm8550-common/proprietary/vendor/lib64/libsnsdiaglog.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsnsdiaglog.so \
     vendor/sony/sm8550-common/proprietary/vendor/lib64/libsnsutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsnsutils.so \
     vendor/sony/sm8550-common/proprietary/vendor/lib64/libsoc_helper.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsoc_helper.so \
     vendor/sony/sm8550-common/proprietary/vendor/lib64/libsomc_aerial.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsomc_aerial.so \
